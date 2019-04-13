@@ -142,14 +142,17 @@ table{
 table td{
     border: 1px solid #86BCB9;
     padding: 5px;
+    transition: 1s;
 }
 table tr:hover{
     background: thistle;
     color: aliceblue;
+    transition: 1s;
 }
 table td:hover{
     background: #000;
     color: teal;
+    transition: 1s;
 }
 
 .video{
