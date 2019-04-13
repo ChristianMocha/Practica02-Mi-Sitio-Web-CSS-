@@ -12,8 +12,6 @@ header{
     height: 70px;
     position:fixed;
     z-index: 10;
- 
-
 }
 
 body{
@@ -77,7 +75,7 @@ p{
     color: aliceblue;
     font-family: rale, sans-serif;
     background: rgba(0, 0, 0, .8);
-
+    z-index: 10;
     position:fixed;
 }
 #menuPrincipal ul li a{
