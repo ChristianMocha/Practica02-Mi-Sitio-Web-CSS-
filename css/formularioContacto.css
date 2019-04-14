@@ -130,6 +130,66 @@ textarea{
     border: 0;
     border-radius: 5px;
 }
+#piePagina{
+    top: 663px;
+    position: absolute;
+    width: 100%;
+    height: 200px;
+    margin-left: 5px;
+    background: url("../images/fondo.jpg");  
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+#nom{
+    width: 100%;
+    height: 100px;
+    color: #86BCB9;
+
+}
+#nom h2{
+    text-transform: uppercase; 
+    padding-left: 3px; 
+    font-weight: bold; 
+    letter-spacing: 1px; 
+    font-family: rale;
+    text-align: center;
+}
+#referencia{
+    width: 70%;
+    height: 100px;
+  
+    float: left;
+    text-align: center;
+    padding-top: 24px; 
+}
+#referencia p  {
+    display: inline;
+    color: springgreen;
+}
+#referencia p a{
+    text-decoration: none;
+    font-weight: bold;
+    color: deepskyblue;
+}
+#referencia p a:hover{
+   color: indigo;
+}
+#copi{
+    width: 30%;
+    height: 100px;
+    margin-left: 1004px;
+}
+#copi label{
+    display: inline;
+    float: left;
+    text-align: center;
+    padding-top: 24px; 
+    font-family: rale;
+    color: aliceblue;
+
+}
 @media(max-width:480px){
     form{
         width: 100%;
