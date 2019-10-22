@@ -89,3 +89,8 @@ En css ocupamos los siguientes codigos.
 <img width="789" alt="Captura de Pantalla 2019-04-15 a la(s) 17 11 13" src="https://user-images.githubusercontent.com/34308608/56168681-7b07e880-5fa1-11e9-8ea3-9a4ec7beed7d.png">
 En la pagina de algun navegador vemos lo sigueinte
 <img width="788" alt="Captura de Pantalla 2019-04-15 a la(s) 17 11 43" src="https://user-images.githubusercontent.com/34308608/56168702-8ce98b80-5fa1-11e9-8430-4f4d683cd65b.png">
+
+
+
+
+<img width="1440" alt="Captura de Pantalla 2019-10-22 a la(s) 12 52 21" src="https://user-images.githubusercontent.com/34308608/67314699-cbb94a80-f4ca-11e9-98bf-f12e3c6d2b8b.png">
